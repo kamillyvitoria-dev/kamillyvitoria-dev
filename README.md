@@ -13,11 +13,13 @@
 ---
 
 ## ✨ Sobre mim
-Meu nome é **Kamilly Vitoria**, sou estudante de **Análise e Desenvolvimento de Sistemas** pelo IFPB e **técnica em Informática** pela mesma instituição.  
+
+Meu nome é **Kamilly Vitoria**, sou estudante de **Análise e Desenvolvimento de Sistemas** pelo IFPB e **técnica em Informática** pela mesma instituição.
 
 ---
 
 ## 🛠️ Tecnologias & Linguagens
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
@@ -31,6 +33,7 @@ Meu nome é **Kamilly Vitoria**, sou estudante de **Análise e Desenvolvimento d
 ---
 
 ## 📊 Linguagens mais usadas
+
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvitoria-dev&layout=compact&theme=dracula"
@@ -40,6 +43,7 @@ Meu nome é **Kamilly Vitoria**, sou estudante de **Análise e Desenvolvimento d
 ---
 
 ## 📈 Estatísticas do GitHub
+
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=kamillyvitoria-dev&show_icons=true&theme=dracula"
@@ -48,9 +52,32 @@ Meu nome é **Kamilly Vitoria**, sou estudante de **Análise e Desenvolvimento d
 
 ---
 
+## 📉 Atividade no GitHub
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kamillyvitoria-dev&bg_color=282A36&color=C9A7FF&line=8A2BE2&point=D8B4FE&area=true&hide_border=true"
+    alt="Gráfico de atividade do GitHub"
+  />
+</p>
+
+---
+
+## 🐍 Minhas contribuições
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/kamillyvitoria-dev/kamillyvitoria-dev/output/github-contribution-grid-snake.svg"
+    alt="Snake animation das contribuições"
+  />
+</p>
+
+---
+
 ## 📬 Contato
-📧 **Email:** kamillyvitoria.dev@gmail.com  
-💼 **LinkedIn:** *(em breve)*  
+
+📧 **Email:** [kamillyvitoria.dev@gmail.com](mailto:kamillyvitoria.dev@gmail.com)
+💼 **LinkedIn:** *(em breve)*
 
 ---
 
