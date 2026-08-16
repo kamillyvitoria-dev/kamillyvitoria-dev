@@ -15,8 +15,6 @@
 ## ✨ Sobre mim
 Meu nome é **Kamilly Vitoria**, sou estudante de **Análise e Desenvolvimento de Sistemas** pelo IFPB e **técnica em Informática** pela mesma instituição.  
 
-Tenho base em desenvolvimento web com **HTML, CSS e JavaScript**, além de já ter estudado **Python e Java**. Atualmente, busco fortalecer meus conhecimentos em lógica de programação, algoritmos e fundamentos da computação, aplicando esses aprendizados em projetos práticos e acadêmicos.
-
 ---
 
 ## 🛠️ Tecnologias & Linguagens
