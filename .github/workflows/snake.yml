@@ -18,7 +18,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#8A2BE2&color_dots=#D8B4FE,#C084FC,#A855F7,#8A2BE2,#6D28D9
+            dist/github-contribution-grid-snake.svg?color_snake=8A2BE2&color_dots=D8B4FE,C084FC,A855F7,8A2BE2,6D28D9
+            dist/github-contribution-grid-snake-dark.svg?color_snake=C084FC&color_dots=6D28D9,8A2BE2,A855F7,C084FC,D8B4FE
 
       - name: Deploy Snake
         uses: crazy-max/ghaction-github-pages@v5
