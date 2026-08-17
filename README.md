@@ -56,7 +56,7 @@ Meu nome é **Kamilly Vitoria**, sou estudante de **Análise e Desenvolvimento d
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kamillyvitoria-dev&bg_color=282A36&color=C9A7FF&line=8A2BE2&point=D8B4FE&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kamillyvitoria-dev&bg_color=282A36&color=C9A7FF&line=8A2BE2&point=D8B4FE&area=true&area_color=6D28D9&hide_border=true"
     alt="Gráfico de atividade do GitHub"
   />
 </p>
@@ -66,10 +66,20 @@ Meu nome é **Kamilly Vitoria**, sou estudante de **Análise e Desenvolvimento d
 ## 🐍 Minhas contribuições
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/kamillyvitoria-dev/kamillyvitoria-dev/output/github-contribution-grid-snake.svg"
-    alt="Snake animation das contribuições"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/kamillyvitoria-dev/kamillyvitoria-dev/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/kamillyvitoria-dev/kamillyvitoria-dev/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/kamillyvitoria-dev/kamillyvitoria-dev/output/github-contribution-grid-snake.svg"
+      alt="Snake animation das contribuições"
+    />
+  </picture>
 </p>
 
 ---
