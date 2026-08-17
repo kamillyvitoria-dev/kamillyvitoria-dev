@@ -66,20 +66,10 @@ Meu nome é **Kamilly Vitoria**, sou estudante de **Análise e Desenvolvimento d
 ## 🐍 Minhas contribuições
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/kamillyvitoria-dev/kamillyvitoria-dev/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/kamillyvitoria-dev/kamillyvitoria-dev/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/kamillyvitoria-dev/kamillyvitoria-dev/output/github-contribution-grid-snake.svg"
-      alt="Snake animation das contribuições"
-    />
-  </picture>
+  <img 
+    src="https://raw.githubusercontent.com/kamillyvitoria-dev/kamillyvitoria-dev/output/github-contribution-grid-snake.svg"
+    alt="Snake animation das contribuições"
+  />
 </p>
 
 ---
